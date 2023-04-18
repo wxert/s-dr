@@ -1,0 +1,9 @@
+.center { 
+border-radius: 100px;
+text-align: center;
+background-color: rgb(122, 115, 153);
+}
+.left{
+    padding-left: 400px;
+    background-color:rgb(122, 115, 153) ;
+}
